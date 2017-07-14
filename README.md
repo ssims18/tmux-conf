@@ -9,5 +9,5 @@ git clone https://github.com/ssims18/tmux-conf.git
 
 Link tmux config to home:
 ```
-ln -s ~/.tmux/.tmux.conf ~/.tmux.conf
+ln -s ~/.tmux/tmux-conf/.tmux.conf ~/.tmux.conf
 ```
